@@ -8,9 +8,9 @@ This project is a **fully responsive landing page** built using **React**, **Tai
 
 ## 🔗 Live Demo
 
-🌐 [View Deployed Site](https://your-vercel-url.vercel.app)
+🌐 [View Deployed Site](https://figmacode-six.vercel.app/)
 
-📁 [GitHub Repository](https://github.com/your-username/your-repo-name)
+📁 [GitHub Repository](https://github.com/Devbhatt910/figmacode.git)
 
 ---
 
